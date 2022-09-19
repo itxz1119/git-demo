@@ -19,4 +19,7 @@ hello atguigu.com
 hello atguigu.com
 hello atguigu.com
 hello atguigu.com
-hello atguigu.com    master test
+hello atguigu.com
+master test
+first commit
+second commit
